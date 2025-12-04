@@ -1,2 +1,2 @@
 # auto-test-lab
-Учебные задания для API и UI автотестов на Python, Pytest и Selenium
+Учебные задания для автотестов на Python и Selenium
